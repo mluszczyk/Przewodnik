@@ -23,7 +23,7 @@ create("kupPanAuto")
 ## Adding RStudio project file to kupPanAuto
 ```
 
-Pierwszym argumentem funkcji `check()` jest ścieżka, w której należy stworzyć nowy pakiet. Ostatni element tej ścieżki (tutaj jedyny) to nazwa pakietu. Powyższa instrukcja w aktualnym katalogu stworzy podkatalog o nazwie `kupPanAuto` z minimalną liczbą niezbędnych plików.
+Pierwszym argumentem funkcji `create()` jest ścieżka, w której należy stworzyć nowy pakiet. Ostatni element tej ścieżki (tutaj jedyny) to nazwa pakietu. Powyższa instrukcja w aktualnym katalogu stworzy podkatalog o nazwie `kupPanAuto` z minimalną liczbą niezbędnych plików.
 
 ![Struktura nowo utworzonego pakietu kupPanAuto](grafika/pakiet1.png)
 
